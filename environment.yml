@@ -1,0 +1,14 @@
+name: daily_coding_routine-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - matplotlib
+  - seaborn
+  - ipykernel
+prefix: C:\Users\jarmo\gits\daily_coding_routine\daily_coding_routine-env
