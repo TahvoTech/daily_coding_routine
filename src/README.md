@@ -14,19 +14,20 @@ The `src` folder is essential for organizing reusable code, utility functions, o
 
 ```
 src
-├── utils
-│   ├── data_processing.py
-│   ├── visualization.py
+├── config
+│   ├── config.yaml
 ├── models
 │   ├── linear_regression.py
 │   ├── clustering.py
-├── config
-│   ├── config.yaml
 ├── scripts
 │   ├── train_model.py
 │   ├── evaluate_model.py
 │   ├── data_loader.py
 │   ├── feature_engineering.py
+├── utils
+│   ├── data_processing.py
+│   ├── visualization.py
+
 ```
 
 ## Example Usage
