@@ -7,7 +7,7 @@ __pycache__/
 venv/
 env/
 ENV/
-titanic-env/
+daily_coding_routine-env/
 .venv/
 .ENV/
 
