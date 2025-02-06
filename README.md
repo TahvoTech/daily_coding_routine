@@ -1,6 +1,6 @@
 # Daily Coding Routine
 
-Welcome to the Daily Coding Routine repository! This repo is dedicated to adding new small code snippets daily or weekly in Python or other programming languages to help learn and improve coding skills.
+Welcome to the Daily Coding Routine repository! This repository is dedicated to adding new small code snippets daily or weekly in Python or other programming languages to help you learn and improve your coding skills.
 
 ## Mini Code Topics
 
@@ -27,7 +27,7 @@ Here are 50 mini code topics to explore:
 10. **File I/O**: Learn how to read from and write to text files, and handle file operations safely.
     - Tip: Use the `open` function with modes like `r`, `w`, and `a` for file operations.
 
-11. **Data Cleaning**: Write a script to clean and preprocess business data for analysis.
+11. **Data Cleaning**: Write a script to clean and preprocess data for analysis.
     - Tip: Use libraries like `pandas` to handle missing values and format data.
 12. **Sales Forecasting**: Implement a simple linear regression model to predict future sales based on historical data.
     - Tip: Use the `scikit-learn` library for building and training the model.
@@ -67,3 +67,15 @@ Here are 50 mini code topics to explore:
     - Tip: Use libraries like `matplotlib` and `seaborn`.
 30. **Automated Reporting**: Generate automated business reports based on data analysis.
     - Tip: Use `pandas` and `Jinja2` for templating reports.
+
+## Folder Structure
+
+The repository is organized as follows:
+
+- `src/`: Contains all source code files.
+    - `python/`: Contains Python code snippets.
+    - `other_languages/`: Contains code snippets in other programming languages, organized by language.
+- `data/`: Contains data files used for various coding tasks.
+    - `raw/`: Raw data files.
+    - `processed/`: Processed data files.
+- `notebooks/`: Contains Jupyter notebooks for different topics.
