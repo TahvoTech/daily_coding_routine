@@ -2,6 +2,18 @@
 
 Welcome to the Daily Coding Routine repository! This repository is dedicated to adding new small code snippets daily or weekly in Python or other programming languages to help you learn and improve your coding skills.
 
+## Folder Structure
+
+The repository is organized as follows:
+
+- `src/`: Contains all source code files.
+    - `python/`: Contains Python code snippets.
+    - `other_languages/`: Contains code snippets in other programming languages, organized by language.
+- `data/`: Contains data files used for various coding tasks.
+    - `raw/`: Raw data files.
+    - `processed/`: Processed data files.
+- `notebooks/`: Contains Jupyter notebooks for different topics.
+
 ## Mini Code Topics
 
 Here are 50 mini code topics to explore:
@@ -68,14 +80,3 @@ Here are 50 mini code topics to explore:
 30. **Automated Reporting**: Generate automated business reports based on data analysis.
     - Tip: Use `pandas` and `Jinja2` for templating reports.
 
-## Folder Structure
-
-The repository is organized as follows:
-
-- `src/`: Contains all source code files.
-    - `python/`: Contains Python code snippets.
-    - `other_languages/`: Contains code snippets in other programming languages, organized by language.
-- `data/`: Contains data files used for various coding tasks.
-    - `raw/`: Raw data files.
-    - `processed/`: Processed data files.
-- `notebooks/`: Contains Jupyter notebooks for different topics.
