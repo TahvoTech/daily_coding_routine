@@ -3,16 +3,13 @@
 Welcome to the Daily Coding Routine repository! This repository is dedicated to adding new small code snippets daily or weekly in Python or other programming languages to help you learn and improve your coding skills.
 
 ## Folder Structure
-
 The repository is organized as follows:
 
-- `src/`: Contains all source code files.
-    - `python/`: Contains Python code snippets.
-    - `other_languages/`: Contains code snippets in other programming languages, organized by language.
 - `data/`: Contains data files used for various coding tasks.
     - `raw/`: Raw data files.
     - `processed/`: Processed data files.
 - `notebooks/`: Contains Jupyter notebooks for different topics.
+- `src/`: Organizes reusable code, utility functions, and larger projects.
 
 ## Mini Code Topics
 
