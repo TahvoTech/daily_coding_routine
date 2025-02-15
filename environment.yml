@@ -11,3 +11,7 @@ dependencies:
   - matplotlib
   - seaborn
   - ipykernel
+  - langchain
+  - pip
+  - pip:
+    - langchain
